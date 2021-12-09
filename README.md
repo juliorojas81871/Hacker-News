@@ -18,7 +18,7 @@ npm run dev-client
 ```
 7. go to browser and type at the address bar: 
 ```
-http://localhost:1234/' 
+http://localhost:1234/
 ```
 
 # Example Pic:
