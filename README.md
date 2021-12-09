@@ -1,6 +1,6 @@
 # Description:
 This code display is an API the display the top 10 news from HackerNews.
-The orginal api come from by gruseom at this [GitHub Pages](https://github.com/HackerNews/API)
+The orginal api was made by gruseom at this [GitHub Pages](https://github.com/HackerNews/API)
 
 # Steps to get code to run:
 1. open terminal
