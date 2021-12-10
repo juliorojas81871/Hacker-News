@@ -4,7 +4,7 @@ The orginal api was made by gruseom at this [GitHub Pages](https://github.com/Ha
 
 # Steps to get code to run:
 1. open terminal
-2. type (You can also donwload the code):
+2. type (You can also download the code):
 ```
 git clone https://github.com/juliorojas81871/Hacker-News
 ```
