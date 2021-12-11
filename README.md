@@ -1,6 +1,6 @@
 # Description:
 This code display is an API the display the top 10 news from HackerNews.
-The orginal api was made by gruseom at this [GitHub Pages](https://github.com/HackerNews/API)
+The orginal api was made by gruseom at this [GitHub Pages](https://github.com/HackerNews/API).
 
 # Steps to get code to run:
 1. open terminal
@@ -8,7 +8,7 @@ The orginal api was made by gruseom at this [GitHub Pages](https://github.com/Ha
 ```
 git clone https://github.com/juliorojas81871/Hacker-News
 ```
-3. ake sure that you are in the right folder, if not cd to it.
+3. Make sure that you are in the right folder, if not cd to it.
 4. Type: 
 ```
 npm i
