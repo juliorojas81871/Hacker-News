@@ -8,20 +8,20 @@ The orginal api was made by gruseom at this [GitHub Pages](https://github.com/Ha
 ```
 git clone https://github.com/juliorojas81871/Hacker-News
 ```
-2.5. Make sure that you are in the right folder, if not cd to it.
-3. type: 
+3. ake sure that you are in the right folder, if not cd to it.
+4. Type: 
 ```
 npm i
 ```
-4. type: 
+5. Type: 
 ```
 npm run dev
 ```
-5. open another terminal / split screen and type:
+6. Open another terminal / split screen and type:
 ```
 npm run dev-client
 ```
-6. go to browser and type at the address bar: 
+7. Go to browser and type at the address bar: 
 ```
 http://localhost:1234/
 ```
