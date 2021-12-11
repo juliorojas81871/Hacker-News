@@ -3,7 +3,7 @@ This code display is an API the display the top 10 news from HackerNews.
 The orginal api was made by gruseom at this [GitHub Pages](https://github.com/HackerNews/API).
 
 # Steps to get code to run:
-1. open terminal
+1. Open terminal
 2. type (You can also download the code):
 ```
 git clone https://github.com/juliorojas81871/Hacker-News
