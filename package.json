@@ -4,17 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build-client && node ./",
+    "start": "concurrently \"npm run start-client\" \"node ./\"",
     "dev": "nodemon ./",
     "dev-client": "parcel client/src/index.html",
-    "build-client": "parcel build client/src/index.html --out-dir client/dist",
-    "start-client": "npm run build && live-server client/dist"
+    "build-client": "parcel build client/src/index.html --out-dir client/dist --public-url /news",
+    "start-client": "npm run build-client && live-server client/dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.16.0",
+    "concurrently": "^6.5.1",
     "express": "^4.17.1",
     "live-serve": "^0.0.0",
     "parcel-bundler": "^1.12.5",
